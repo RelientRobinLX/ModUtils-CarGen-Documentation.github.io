@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-<!-- ![logo](_media/icon.svg)-->
+![logo](Logo.png)
 
 # Mod-Utils Car-Gen Docs Project <small>3.5</small>
 
