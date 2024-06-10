@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-[logo](Logo.png)
+![logo](Logo.png)
 
 
 
