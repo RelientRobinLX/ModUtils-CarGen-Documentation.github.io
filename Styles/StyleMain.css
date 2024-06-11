@@ -1,1 +1,55 @@
+/* CSS MAIN STYLE SHEET */
+
+/* Site Wide Background Image */
+
+body
+{
+  background: lightblue url("https://raw.githubusercontent.com/RelientRobinLX/ModUtils-CarGen-Documentation.github.io/main/Media/LandingPageBackGround.png") no-repeat fixed center; 
+}
+
+/* Containers and centers */
+
+.container {
+  height: 200px;
+  position: relative;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}  
+
+/* Buttons */
+
+.button {
+  background-color: #000000; 
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+/* Standarad Button 1 */
+
+.buttonStandard {
+  background-color: black; 
+  color: white; 
+}
+
+.buttonStandard:hover {
+  background-color: #ffa500;
+  color: white;
+}
+
 
