@@ -30,8 +30,6 @@ img {
   transition-duration: 0.4s;
   cursor: pointer;
   border-radius: 8px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .button1 {
@@ -45,8 +43,6 @@ img {
   color: white;
   border-radius: 4px;
   border-solid: #FFFFFF;
-
-
 }
 
 .button2 {
@@ -66,13 +62,15 @@ img {
   position: relative;
   border: 3px solid green;
 }
-.vertical-center {
+
+.center {
   margin: 0;
   position: absolute;
   top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}   
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}  
 </style>
     </head>
 <body>
@@ -81,7 +79,7 @@ img {
 
 
 <div class="container">
-  <div class="vertical-center">
+  <div class="center">
     <button class="button button1">Get Started!</button>
     <button class="button button2">View Documentation</button>  </div>
 </div>
