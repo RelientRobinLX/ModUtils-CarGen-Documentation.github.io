@@ -4,7 +4,7 @@
 
 body
 {
-  background: lightblue url("https://raw.githubusercontent.com/RelientRobinLX/ModUtils-CarGen-Documentation.github.io/main/Media/LandingPageBackGround.png") no-repeat fixed center; 
+  background: src("Media/LandingPageBackGround.png") no-repeat fixed center; 
 }
 
 /* Containers and centers */
