@@ -59,15 +59,30 @@ img {
   border-solid: #FFFFFF;
 }
 
+.container {
+  height: 200px;
+  position: relative;
+  border: 3px solid green;
+}
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}   
 </style>
     </head>
 <body>
 
 <img src="Media/Logo.png"  style="width:40%; height 40%;">
-    
 
-<button class="button button1">Get Started!</button>
-<button class="button button2">View Documentation</button>
+
+<div class="container">
+  <div class="vertical-center">
+    <button class="button button1">Get Started!</button>
+    <button class="button button2">View Documentation</button>  </div>
+</div>
 
     
 </body>
