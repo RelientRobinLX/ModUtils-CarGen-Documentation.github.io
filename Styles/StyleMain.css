@@ -4,7 +4,11 @@
 
 body
 {
-  background: black src("../Media/LandingPageBackGround.png") no-repeat fixed center; 
+  background: rgb(92,30,106);
+  background: -moz-linear-gradient(42deg, rgba(92,30,106,1) 21%, rgba(119,129,133,1) 84%);
+  background: -webkit-linear-gradient(42deg, rgba(92,30,106,1) 21%, rgba(119,129,133,1) 84%);
+  background: linear-gradient(42deg, rgba(92,30,106,1) 21%, rgba(119,129,133,1) 84%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#5c1e6a",endColorstr="#778185",GradientType=1);
 }
 
 /* Containers and centers */
