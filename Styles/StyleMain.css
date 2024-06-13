@@ -2,6 +2,9 @@
 
 /* Site Wide Background Image */
 
+body{
+  background: rgb(40, 40, 40);
+}
 
 /* Containers and centers */
 
@@ -18,14 +21,6 @@
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }  
-
-body{
-  background: rgb(62,62,62);
-  background: -moz-linear-gradient(0deg, rgba(62,62,62,1) 18%, rgba(69,69,69,1) 84%);
-  background: -webkit-linear-gradient(0deg, rgba(62,62,62,1) 18%, rgba(69,69,69,1) 84%);
-  background: linear-gradient(0deg, rgba(62,62,62,1) 18%, rgba(69,69,69,1) 84%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3e3e3e",endColorstr="#454545",GradientType=1);
-}
 
 /* Buttons */
 
