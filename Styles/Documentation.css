@@ -1,6 +1,6 @@
 /* CSS DOCUMENTATION STYLE SHEET */
 
-#PanelCurved1
+.PanelCurved1
 {
     border-radius: 25px;
     background: #101010;
@@ -8,6 +8,23 @@
     width: 200px;
     height: 150px;  
 
+}
+
+#TextTitle
+{
+    font-size: 32px;
+    color: white;
+    text-align: left;
+    font-family: "Arial";
+    font-weight: bold;
+
+}
+#TextTitleSubHeader{
+    font-size: 15px;
+    color: rgb(163, 163, 163);
+    text-align: left;
+    font-family: "Arial";
+    font-weight: lighter;
 }
 
 body
