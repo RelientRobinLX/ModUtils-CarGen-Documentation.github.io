@@ -18,14 +18,11 @@
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }  
-.LogoCenter {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, 30%);
-}  
+
+body{
+  background: rgb(45,45,45);
+  background: linear-gradient(42deg, rgba(45,45,45,1) 18%, rgba(80,62,49,1) 84%);
+}
 /* Buttons */
 
 .button {
