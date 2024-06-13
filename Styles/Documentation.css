@@ -2,11 +2,11 @@
 
 #PanelCurved1
 {
-    border-radius: 15px;
-    background: #1a1a1a;
-    padding: 20px;
+    border-radius: 25px;
+    background: #101010;
+    padding: 20px; 
     width: 200px;
-    height: 150px;
+    height: 150px;  
 
 }
 
@@ -16,3 +16,5 @@ body
     text-align: center;
 
 }
+
+/*  word-wrap: break-word; */
