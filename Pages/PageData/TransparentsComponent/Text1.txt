@@ -1,0 +1,4 @@
+The Transparents Component Is used by the game to define which gameobjects are transparents, and which are not. 
+Typically, A tranparents component is made up by 3 components. A Transform Component, A Mesh Filter, And of course, The transparents component.
+A transparent works by using a shared name with a part's Renamed Prefab name (Found on PartInfo Component) 
+For a part to be able to become attachable to a transparent, it must have the same matching renamed prefab name as the transparents gameobject name. 
