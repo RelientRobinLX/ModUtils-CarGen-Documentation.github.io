@@ -51,7 +51,7 @@ h1
     display: grid;
     grid:
       "sidebar body" 1fr
-      / 30% 1fr;
+      / 30% 70%;
     gap: 8px;
   }
   
