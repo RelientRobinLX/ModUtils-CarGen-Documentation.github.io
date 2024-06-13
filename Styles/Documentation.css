@@ -20,11 +20,10 @@
 
 }
 #TextTitleSubHeader{
-    font-size: 15px;
+    font-size: 25px;
     color: rgb(163, 163, 163);
     text-align: left;
     font-family: "Arial";
-    font-weight: lighter;
 }
 
 body
