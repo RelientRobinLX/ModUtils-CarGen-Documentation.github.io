@@ -1,0 +1,11 @@
+/* CSS DOCUMENTATION STYLE SHEET */
+
+#PanelCurved1
+{
+    border-radius: 15px;
+    background: #1a1a1a;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+
+}
