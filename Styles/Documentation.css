@@ -41,3 +41,19 @@ h1
     font-weight: bold;
 }
 /*  word-wrap: break-word; */
+
+/*  Layout */
+
+.layout {
+    width: 1366px;
+    height: 768px;
+  
+    display: grid;
+    grid:
+      "sidebar body" 1fr
+      / 30% 1fr;
+    gap: 8px;
+  }
+  
+  .sidebar { grid-area: sidebar; }
+  .body { grid-area: body; }
