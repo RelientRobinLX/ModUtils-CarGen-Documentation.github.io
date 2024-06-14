@@ -3,10 +3,11 @@
 .PanelCurved1
 {
     border-radius: 25px;
-    background: #101010;
+    background: #ffffff00;
     padding: 20px; 
     width: 200px;
     height: 150px;  
+    filter: blur(4px);
 
 }
 
@@ -29,7 +30,7 @@
 body
 {
     color: white;
-    text-align: center;
+    text-align: left;
     font-family: "Arial";
 
 }
