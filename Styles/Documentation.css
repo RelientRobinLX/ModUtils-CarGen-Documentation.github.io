@@ -3,11 +3,10 @@
 .PanelCurved1
 {
     border-radius: 25px;
-    background: #ffffff00;
+    background: #131313;
     padding: 20px; 
     width: 200px;
     height: 150px;  
-    filter: blur(4px);
 
 }
 
