@@ -94,7 +94,6 @@ h1
     display: grid;
     grid:
       "sidebar body" 15% 55%;
-  gap: 15% 15%;
   }
   
 .sidebar { grid-area: sidebar; }
