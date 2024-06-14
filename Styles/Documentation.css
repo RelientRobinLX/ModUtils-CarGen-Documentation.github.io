@@ -6,6 +6,7 @@
     background: #101010;
     margin-top: 20px;
     margin-bottom: 20px;
+    padding: 20px;
     width: 200px;
     height: 150px;  
 
@@ -19,7 +20,7 @@
     margin-bottom: 20px;
     width: 200px;
     height: 150px;  
-
+    padding: 20px;
 }
 
 .PanelCurvedImageTitle
@@ -31,7 +32,7 @@
 
     width: 200px;
     height: 150px;  
-
+    padding: 20px;
 }
 
 .PanelCurvedImage
@@ -43,7 +44,7 @@
 
     width: 200px;
     height: 150px;  
-
+    padding: 20px;
 }
 #TextTitle
 {
