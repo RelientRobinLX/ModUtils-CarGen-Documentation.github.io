@@ -47,8 +47,8 @@ h1
 /*  Layout */
 
 .layout {
-    width: 1366px;
-    height: 768px;
+    width: auto;
+    height: auto;
   
     display: grid;
     grid:
