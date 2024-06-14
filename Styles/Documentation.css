@@ -52,7 +52,7 @@ h1
     grid:
       "sidebar body" 1fr
       / 30% 70%;
-    gap: 8px;
+  gap: 16px 50px;
   }
   
   .sidebar { grid-area: sidebar; }
