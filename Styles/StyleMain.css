@@ -49,7 +49,7 @@ body{
 }
 
 .buttonStandard:hover {
-  background-color: #ffa500;
+  background-color: rgb(244, 125, 42);;
   color: white;
 }
 
