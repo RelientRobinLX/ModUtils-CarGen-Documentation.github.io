@@ -58,3 +58,10 @@ h1
   
   .sidebar { grid-area: sidebar; }
   .body { grid-area: body; }
+
+.ImagePanel1
+{
+  border-radius: 25px;
+  padding: 20px; 
+  background-image: url("https://raw.githubusercontent.com/RelientRobinLX/ModUtils-CarGen-Documentation.github.io/main/Media/Logo.png");
+}
