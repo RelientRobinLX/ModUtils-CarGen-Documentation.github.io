@@ -3,13 +3,48 @@
 .PanelCurved1
 {
     border-radius: 25px;
-    background: #131313;
-    padding: 20px; 
+    background: #101010;
+    margin-top: 20px;
+    margin-bottom: 20px;
     width: 200px;
     height: 150px;  
 
 }
 
+.PanelCurved2
+{
+    border-radius: 10px;
+    background: #101010;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 200px;
+    height: 150px;  
+
+}
+
+.PanelCurvedImageTitle
+{
+    border-radius: 10px;
+    background: #101010;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+    width: 200px;
+    height: 150px;  
+
+}
+
+.PanelCurvedImage
+{
+    border-radius: 10px;
+    background: #101010;
+    margin-top: 0px;
+    margin-bottom: 20px;
+
+    width: 200px;
+    height: 150px;  
+
+}
 #TextTitle
 {
     font-size: 32px;
