@@ -81,6 +81,8 @@ body
     font-family: "Arial";
     font-size: 22;
     overflow: hidden;
+    height: 100%;           
+    margin: 0;   
 }
 
 
@@ -106,5 +108,5 @@ h1
     gap: 8px;
   }
   
-  .sidebar { grid-area: sidebar; overflow-y: hidden; margin: 0%; }
-  .body { grid-area: body; overflow-y: auto; float: right; }
+  .sidebar { grid-area: sidebar; overflow-y: hidden; margin: 0%;}
+  .body { grid-area: body; overflow-y: auto; float: right; height: 100%;}
