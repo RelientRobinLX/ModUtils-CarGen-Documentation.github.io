@@ -109,4 +109,4 @@ h1
   }
   
   .sidebar { grid-area: sidebar; overflow-y: hidden; margin: 0%;}
-  .body { grid-area: body; overflow-y: auto; float: right; height: 100%;}
+  .body { grid-area: body; overflow-y: auto; float: right; height: 101%;}
