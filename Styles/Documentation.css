@@ -15,7 +15,7 @@
 
 .PanelCurved2
 {
-    border-radius: 10px;
+    border-radius: 20px;
     background: #101010;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -40,7 +40,7 @@
 
 .PanelCurvedImage
 {
-    border-radius: 10px;
+    border-radius: 20px;
     background: #101010;
     margin-top: 0px;
     margin-bottom: 20px;
