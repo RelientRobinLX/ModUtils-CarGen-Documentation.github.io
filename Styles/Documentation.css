@@ -90,13 +90,15 @@ h1
 /*  Layout */
 
 .layout {
-    width: auto;
-    height: auto;
+    width: 1920px;
+    height: 1080px;
   
     display: grid;
     grid:
-      "sidebar body" 15% 55%;
+      "sidebar body" 1fr
+      / 30% auto;
+    gap: 8px;
   }
   
-.sidebar { grid-area: sidebar; }
-.body { grid-area: body; }
+  .sidebar { grid-area: sidebar; }
+  .body { grid-area: body; }
