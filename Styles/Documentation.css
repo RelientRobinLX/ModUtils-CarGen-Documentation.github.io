@@ -1,5 +1,11 @@
 /* CSS DOCUMENTATION STYLE SHEET */
-
+html {
+    height: 100%;                       
+}
+main {
+    margin: 0;
+    height: 100%;
+}
 .PanelCurved1
 {
     border-radius: 25px;
@@ -74,6 +80,7 @@ body
     text-align: left;
     font-family: "Arial";
     font-size: 22;
+    overflow: hidden;
 }
 
 
@@ -100,4 +107,4 @@ h1
   }
   
   .sidebar { grid-area: sidebar; overflow-y: hidden; margin: 0%; }
-  .body { grid-area: body; overflow-y: auto; }
+  .body { grid-area: body; overflow-y: auto; float: right; }
