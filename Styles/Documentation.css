@@ -74,7 +74,6 @@ body
     text-align: left;
     font-family: "Arial";
     font-size: 22;
-
 }
 
 
@@ -100,5 +99,5 @@ h1
     gap: 8px;
   }
   
-  .sidebar { grid-area: sidebar; }
-  .body { grid-area: body; }
+  .sidebar { grid-area: sidebar; overflow-y: hidden; margin: 0%; }
+  .body { grid-area: body; overflow-y: auto; }
