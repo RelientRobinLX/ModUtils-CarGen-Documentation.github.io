@@ -108,5 +108,5 @@ h1
     gap: 8px;
   }
   
-  .sidebar { grid-area: sidebar; overflow-y: hidden; margin: 0%;}
-  .body { grid-area: body; overflow-y: visible; float: right; height: 100%;}
+  .sidebar { grid-area: sidebar; }
+  .body { grid-area: body; }
