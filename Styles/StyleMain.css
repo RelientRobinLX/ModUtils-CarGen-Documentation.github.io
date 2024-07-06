@@ -17,7 +17,7 @@ ul {
   background-color: white;
   position: fixed;
   height: 100%;
-  overflow: auto;
+  overflow: hidden;
 }
 
 /* Containers and centers s*/
