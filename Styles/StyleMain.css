@@ -6,7 +6,18 @@ body{
   background: rgb(40, 40, 40);
 }
 
+/* Dock */
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 25%;
+  background-color: white;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
 
 /* Containers and centers s*/
 
