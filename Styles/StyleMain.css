@@ -53,6 +53,19 @@ ul {
   border-radius: 8px;
 }
 
+.Dockbutton {
+  background-color: transparent; 
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
 /* Standarad Button 1 */
 
 .buttonStandard {
@@ -65,4 +78,6 @@ ul {
   color: white;
 }
 
-
+.Dockbutton:hover {
+  color: rgb(244, 125, 42);;;
+}
