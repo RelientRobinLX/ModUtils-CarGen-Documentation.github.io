@@ -2,6 +2,9 @@
 main {
     margin: 0;
 }
+body{
+    top: 0px;
+}
 .PanelCurved1
 {
     border-radius: 25px;
