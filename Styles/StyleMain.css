@@ -2,6 +2,8 @@
 
 /* Site Wide Background Image */
 
+html { scroll-behavior: smooth; } 
+
 body{
   background: rgb(40, 40, 40);
   margin: 0;
