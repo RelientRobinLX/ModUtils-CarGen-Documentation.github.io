@@ -11,4 +11,8 @@ body{
     background-color: #000000;
     overflow: hidden;
 }
-  
+
+.LogoHeader{
+    float: left;
+    padding: 15px;
+}
