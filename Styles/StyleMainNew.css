@@ -6,6 +6,7 @@ html { scroll-behavior: smooth; }
 
 body{
     background: rgb(11, 9, 9);
+    margin: 0%;
   }
 .nav {
     background-color: #000000;
