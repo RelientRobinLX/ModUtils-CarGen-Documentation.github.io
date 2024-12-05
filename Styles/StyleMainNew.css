@@ -1,0 +1,14 @@
+/* CSS MAIN STYLE SHEET */
+
+/* Site Wide Background Image */
+
+html { scroll-behavior: smooth; } 
+
+body{
+    background: rgb(11, 9, 9);
+  }
+.nav {
+    background-color: #000000;
+    overflow: hidden;
+}
+  
