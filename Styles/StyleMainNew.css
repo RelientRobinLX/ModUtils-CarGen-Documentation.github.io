@@ -10,8 +10,8 @@ body{
 .nav {
     background-color: #000000;
     overflow: hidden;
+    height: auto;
 }
-
 .LogoHeader{
     float: left;
     padding: 15px;
