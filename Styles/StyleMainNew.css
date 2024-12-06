@@ -9,7 +9,7 @@ html { scroll-behavior: smooth; }
 body {
     background: rgb(11, 9, 9);
     margin: 0%;
-  }
+}
 
 .nav {
     background-color: #000000;
@@ -30,6 +30,6 @@ body {
     text-align: center;
     padding: 15px;
     padding-right: 2.5%;
-    padding-top: 2.5%;
+    padding-top: 1.5%;
     align-self: center;
 }
