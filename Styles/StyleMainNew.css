@@ -34,9 +34,9 @@ body {
     align-self: center;
 }
 
-.Header:hover {
+.HeaderButton:hover {
     font-size: 25px;
     color: rgb(244, 125, 42);
     text-align: center;
-    animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 0.5s ease-in-out infinite alternate;
   }
