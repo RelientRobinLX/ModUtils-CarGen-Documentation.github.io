@@ -41,4 +41,10 @@ body {
     color: rgb(244, 125, 42);
     text-align: center;
     text-shadow: 0, 0, 10px, rgb(244, 125, 42);;
-  }
+}
+
+.footer {
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(255,255,255,0) 100%);
+    align-content: center;
+}
