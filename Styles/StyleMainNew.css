@@ -22,7 +22,18 @@ body {
     float: left;
     padding: 15px;
 }
+.PanelCurved1
+{
+    border-radius: 25px;
+    background: #101010;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 1%;
+    width: 200px;
+    height: 150px;  
+    max-width: 1000px;
 
+}
 .HeaderButton {
     float: right;
     color: rgb(244, 125, 42);
