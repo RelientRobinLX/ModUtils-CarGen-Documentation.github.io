@@ -30,7 +30,9 @@ body {
     text-align: center;
     padding: 15px;
     padding-right: 2.5%;
-    padding-top: 1.7%;
+    padding-top: 1.6%;
+    transition-duration: 0.4s;
+    cursor: pointer;
     align-self: center;
 }
 
