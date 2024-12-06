@@ -33,3 +33,10 @@ body {
     padding-top: 2.2%;
     align-self: center;
 }
+
+.Header:hover {
+    font-size: 25px;
+    color: rgb(244, 125, 42);
+    text-align: center;
+    animation: glow 1s ease-in-out infinite alternate;
+  }

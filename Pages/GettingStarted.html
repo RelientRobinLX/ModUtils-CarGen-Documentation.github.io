@@ -4,13 +4,27 @@
     <title>CarGenDocs / Getting Started</title>
         <link rel="stylesheet" href="../Styles/StyleMainNew.css">
         <link rel="icon" type="image/x-icon" href="../Media/CG_favicon.ico">
-        <style>    
+        <style>
+        /* Inter Font Face */
         @font-face {
           font-family: Inter;
           src: url("../Media/Fonts/Inter_28pt-Black.ttf") format('truetype');
           font-weight: bold;
           font-style: normal;
-        }    
+        } 
+        
+        @keyframes glow {
+          from {
+            text-shadow: 0 0 0px rgb(244, 125, 42);
+          }
+  
+          to {
+           text-shadow: 0 0 20px rgb(244, 180, 42);
+          }
+        }
+
+        /*text-shadow: rgba(153,255,0,0.43) 0px 0px 13px;*/
+        
          h1
          {
           font-family: 'Inter';
@@ -21,7 +35,7 @@
 
   <body>
     <div class="nav" style="height: 10%;">
-      
+
       <div class="LogoHeader" style ="padding-left: 2.5%;">
         <a href="https://relientrobinlx.github.io/ModUtils-CarGen-Documentation.github.io/Pages/Home.html">
           <img src="../Media/CarGenHeaderLogo.png" style="height: 65%; width: 65%; padding-top: 1.5%"> 
