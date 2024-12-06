@@ -1,10 +1,12 @@
 /* CSS MAIN STYLE SHEET */
 
-/* Site Wide Background Image */
 
+
+  
 html { scroll-behavior: smooth; } 
 
-body{
+
+body {
     background: rgb(11, 9, 9);
     margin: 0%;
   }
@@ -13,16 +15,16 @@ body{
     overflow: hidden;
     height: auto;
     box-shadow: 0px -2px 20px 0px rgb(0, 0, 0);
+    align-content:center
 }
-.LogoHeader{
+.LogoHeader {
     float: left;
     padding: 15px;
 }
 
-.HeaderButton{
+.HeaderButton {
     float: right;
     color: rgb(244, 125, 42);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 32px;
     text-align: center;
     padding: 15px;
