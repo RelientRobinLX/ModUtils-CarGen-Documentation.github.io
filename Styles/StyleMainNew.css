@@ -38,5 +38,5 @@ body {
     font-size: 25px;
     color: rgb(244, 125, 42);
     text-align: center;
-    animation: glow 0.5s ease-in-out infinite alternate;
+    text-shadow: 0, 0, 10px, rgb(244, 125, 42);;
   }
