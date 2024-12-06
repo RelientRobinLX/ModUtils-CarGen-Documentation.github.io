@@ -40,8 +40,8 @@ p {
     position: absolute;
     top: auto;
     left: 50%;
-    -ms-transform: translate(-50%, 10%);
-    transform: translate(-50%, 10%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, 7%);
 
 }
 .HeaderButton {
