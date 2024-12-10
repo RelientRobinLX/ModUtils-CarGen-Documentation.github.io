@@ -31,18 +31,13 @@ p {
 {
     border-radius: 10px;
     background: #101010;
-    margin-top: 20px;
-    margin-bottom: 20px;
     padding: 1%;
     width: 200px;
     height: 150px;  
     max-width: 1000px;
-    position: absolute;
+    position: relative;
     top: 40%;
     left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, 7%);
-
 }
 .HeaderButton {
     float: right;
